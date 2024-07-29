@@ -1,0 +1,2 @@
+# picture_guessing_game
+CLIP、BERT、StableDiffusionを用いたお絵描き伝言ゲーム
